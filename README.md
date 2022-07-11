@@ -1,4 +1,4 @@
-# Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" height="25px"> I'm Maxime work <a href="https://thetribe.io">@theTribe</a><img src="https://yt3.ggpht.com/paRla-GTdU3-pJO_s54bvBho9QpElJJJvaWxWSbmeeVRcSVWO1-z8c-O6o_GhAkNWTQfhuIVXA=s176-c-k-c0x00ffffff-no-rj" width="25px" height="25px">
+# Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" height="25px"> I'm Maxime and work <a href="https://thetribe.io">@theTribe</a><img src="https://yt3.ggpht.com/paRla-GTdU3-pJO_s54bvBho9QpElJJJvaWxWSbmeeVRcSVWO1-z8c-O6o_GhAkNWTQfhuIVXA=s176-c-k-c0x00ffffff-no-rj" width="25px" height="25px">
 
 - 🔭 I’m currently working on  **build usefull product and support entrepreneurs and decision-makers to innovate**.
 - 👯 I’m looking to collaborate on **open source project** and **inovating bussiness and product**.
