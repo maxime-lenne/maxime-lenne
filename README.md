@@ -1,4 +1,4 @@
-### Hi there 👋
+# Hi there 👋
 
 <!--
 **maxime-lenne/maxime-lenne** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -13,8 +13,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
-
 
 # <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" height="25px"> Hey, I'm glad to see you
 
@@ -23,7 +21,7 @@ Here are some ideas to get you started:
 - 👨‍💻 All of my public speaking is available at [my talks page](https://davidl.fr/talks).
 - 💬 Ask me about **React, React Native,** and **Automation Hacks** <a href="https://twitter.com/intent/follow?screen_name=flexbox_" target="_blank"> on Twitter!</a>
 
-<hr />
+-->
 
 ### The Language I use
 
@@ -48,8 +46,8 @@ Here are some ideas to get you started:
 <p>Statistics are extracted from my public activity and doesn't reflect completely the work with my clients. Feel free to <a href="https://davidl.fr/onboading" target="_blank">contact me</a> if you want to know more about my skills.</p>
 
 <a href="https://github.com/maxime-lenne/">
-  <img src="https://github-readme-stats.vercel.app/api?username=maxime-lenne/&show_icons=true&theme=buefy" alt="maxime-lenne/" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maxime-lenne/&layout=compact&hide=html&theme=buefy" alt="maxime-lenne/" />
+  <img src="https://github-readme-stats.vercel.app/api?username=maxime-lenne&count_private=true&show_icons=true&theme=buefy" alt="maxime-lenne/" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maxime-lenne&count_private=true&layout=compact&hide=html&theme=buefy" alt="maxime-lenne/" />
 </a>
 
 <hr />
