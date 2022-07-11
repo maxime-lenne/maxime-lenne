@@ -63,7 +63,7 @@ Here are some ideas to get you started:
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" align="left" alt="Maxime Lenne | Twitter" width="32" />
 </a>
 <a href="https://medium.com/@MaximeLenne">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/medium/medium-original.svg" align="left" alt="Maxime Lenne | Medium" width="32" />
+  <img src="https://www.vectorlogo.zone/logos/medium/medium-tile.svg" align="left" alt="Maxime Lenne | Medium" width="32" />
 </a>
 <a href="https://www.linkedin.com/in/maxime-lenne">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" align="left" alt="Maxime Lenne | LinkdeIn" width="32" />
