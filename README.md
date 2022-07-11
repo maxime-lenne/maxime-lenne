@@ -1,11 +1,18 @@
-# Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" height="25px">
+# Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" height="25px"> I'm Maxime work <a href="https://thetribe.io">@theTribe</a><img src="https://yt3.ggpht.com/paRla-GTdU3-pJO_s54bvBho9QpElJJJvaWxWSbmeeVRcSVWO1-z8c-O6o_GhAkNWTQfhuIVXA=s176-c-k-c0x00ffffff-no-rj" width="25px" height="25px">
+
+- 🔭 I’m currently working on  **build usefull product and support entrepreneurs and decision-makers to innovate**.
+- 👯 I’m looking to collaborate on **open source project** and **inovating bussiness and product**.
+- 🌱 I’m currently learning **TypeScript**, **NestJS**, **Ansible** and **Terraform**.
+- 💬 Ask me about **entrepreneurship, startups, innovation and technologies**!
+- 📫 How to reach me: <a href="https://twitter.com/intent/follow?screen_name=MaximeLenne">Twitter</a> and <a href="https://www.linkedin.com/in/maxime-lenne">Linkedin</a>
+
 
 <!--
 **maxime-lenne/maxime-lenne** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+- 🔭 I’m currently working on  **build usefull product and support entrepreneurs and decision-makers to innovate**.
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
@@ -54,8 +61,8 @@ Here are some ideas to get you started:
 
 ### You Can Stalk Me Here
 
-<a href="https://github.com/maxime-lenne">
-  <img align="left" src="https://komarev.com/ghpvc/?username=maxime-lenne" alt="maxime-lenne" />
+<a href="https://github.com/maxime-lenne" style="display:none">
+  <img align="left" src="https://komarev.com/ghpvc/?username=maxime-lenne" alt="maxime-lenne" style="display:none" />
 </a>
 <a href="https://twitter.com/intent/follow?screen_name=MaximeLenne">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" align="left" alt="Maxime Lenne | Twitter" width="32" />
