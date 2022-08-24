@@ -50,7 +50,7 @@ Here are some ideas to get you started:
   <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="32" height="32"/>
 </p>
 
-<p>Statistics are extracted from my public activity and doesn't reflect completely the work with my clients. Feel free to <a href="https://davidl.fr/onboading" target="_blank">contact me</a> if you want to know more about my skills.</p>
+<p>Statistics are extracted from my public activity and doesn't reflect completely the work with my clients. Feel free to contact me if you want to know more about my skills.</p>
 
 <a href="https://github.com/maxime-lenne/">
   <img src="https://github-readme-stats.vercel.app/api?username=maxime-lenne&count_private=true&show_icons=true&theme=buefy" alt="maxime-lenne/" />
@@ -61,9 +61,6 @@ Here are some ideas to get you started:
 
 ### You Can Stalk Me Here
 
-<a href="https://github.com/maxime-lenne" style="display:none">
-  <img align="left" src="https://komarev.com/ghpvc/?username=maxime-lenne" alt="maxime-lenne" style="display:none" />
-</a>
 <a href="https://twitter.com/intent/follow?screen_name=MaximeLenne">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" align="left" alt="Maxime Lenne | Twitter" width="32" />
 </a>
