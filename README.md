@@ -59,6 +59,31 @@ Here are some ideas to get you started:
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maxime-lenne&count_private=true&layout=compact&hide=html&theme=buefy" alt="maxime-lenne/" />
 </a>
 
+<picture>
+  <source
+    srcset="https://github-readme-stats-apmbudyva-maxime-lennes-projects.vercel.app/api?username=maxime-lenne&count_private=true&show_icons=true&theme=dark"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats-apmbudyva-maxime-lennes-projects.vercel.app/api?username=maxime-lenne&count_private=true&show_icons=true"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats-apmbudyva-maxime-lennes-projects.vercel.app/api?username=maxime-lenne&count_private=true&show_icons=true" />
+</picture>
+
+<picture>
+  <source
+    srcset="https://github-readme-stats-apmbudyva-maxime-lennes-projects.vercel.app/api/top-langs/?username=maxime-lenne&count_private=true&show_icons=true&theme=dark"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats-apmbudyva-maxime-lennes-projects.vercel.app/api/top-langs/?username=maxime-lenne&count_private=true&show_icons=true"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats-apmbudyva-maxime-lennes-projects.vercel.app/api/top-langs/?username=maxime-lenne&count_private=true&show_icons=true" />
+</picture>
+
+
 <hr />
 
 ### You Can Stalk Me Here
