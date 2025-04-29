@@ -59,9 +59,8 @@ Here are some ideas to get you started:
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maxime-lenne&count_private=true&layout=compact&hide=html&theme=buefy" alt="maxime-lenne/" />
 </a>
 
-[![Lenne's GitHub stats-Dark]([https://github-readme-stats.vercel.app/api?username=anuraghazra](https://github-readme-stats-apmbudyva-maxime-lennes-projects.vercel.app/api?username=maxime-lenne&count_private=true)&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/maxime-lenne/github-readme-stats#gh-dark-mode-only)
-[![Lenne's GitHub stats-Light]([https://github-readme-stats.vercel.app/api?username=anuraghazra](https://github-readme-stats-apmbudyva-maxime-lennes-projects.vercel.app/api?username=maxime-lenne&count_private=true)&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/maxime-lenne/github-readme-stats#gh-light-mode-only)
-
+[![Lenne's GitHub stats-Dark](https://github-readme-stats-apmbudyva-maxime-lennes-projects.vercel.app/api?username=maxime-lenne&count_private=true&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
+[![Lenne's GitHub stats-Light](https://github-readme-stats-apmbudyva-maxime-lennes-projects.vercel.app/api?username=maxime-lenne&count_private=true&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
 <picture>
   <source
     srcset="https://github-readme-stats-apmbudyva-maxime-lennes-projects.vercel.app/api?username=maxime-lenne&count_private=true&show_icons=true&theme=dark"
