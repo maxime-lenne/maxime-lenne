@@ -1,25 +1,24 @@
-# Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" height="25px"> I'm Maxime and <a href="https://maxime-lenne.fr?utm_source=github&utm_medium=referral">freelance</a>
+# Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" height="25px"> Hi there! I’m Maxime, a <a href="https://maxime-lenne.fr?utm_source=github&utm_medium=referral">Freelance CTO-as-a-Service, Fractional CTO & AI/Product Engineer</a>.
 
 ## **🔭 I’m currently working on**
-- 👷 build use-full product and support entrepreneurs and decision-makers to innovate** with [White Wood Tech an AI-native Tech & Product studio](https://white-wood.tech/en/?utm_source=github&utm_medium=referral)
+- 👷 Building useful products and helping entrepreneurs and decision-makers innovate with [White Wood Tech an AI-native Tech & Product studio](https://white-wood.tech/en/?utm_source=github&utm_medium=referral)
 - 🍏 [N8Ninja](https://n8n-ninja.app/en/?utm_source=github&utm_medium=referral): manage and monitor n8n from iPhone, iPad, Mac, Apple Watch and Apple TV. [Download on the App Store](https://apps.apple.com/us/app/id6746260475?pt=127799253&ct=github&mt=8)
-- 🧠 Teach and Build on AI : RAG / Agents with [White Wood Tech an AI-native Tech & Product studio](https://white-wood.tech/en/?utm_source=github&utm_medium=referral)
+- 🧠 Teaching & building with AI : Exploring and developing AI-powered solutions, including RAG systems and AI agents, through [White Wood Tech](https://white-wood.tech/en/?utm_source=github&utm_medium=referral)
 
-## I’m available for collaborations or discussions on :
-- 👯 **open source project** and **inovating business and product**.
-- ✍🏻 participate and share on technical and startup communities, 
-- 🎤 Meetup and  conference : as part of the organizing team, as a speaker or simply as an attendees 
+## I’m available for collaborations or discussions about :
+- 👯 **open source project**, **innovative businesses**, and **product ideas**.
+- ✍🏻 Tech & startup communities — Contributing, sharing knowledge, and learning from others.
+- 🎤 Meetups & conferences — Whether as an organizer, speaker, or simply an attendee.
   
 ## 🌱 I’m currently learning
 - **AI frameworks**, **Agentic**, **rust** and **Astro**.
 
-## 🎓 My top and preffered skills, tools and Languages
-- **Typescript** / **NestJS**
-- **Python** / Flask / **FastAPI**
-- **Astro** / VueJS / NuxtJS
-- **Docker** / Kubernetes / **Terraform** / Ansible
-- **AI** / Antropic / **Claude Code** / Agentic / **LangChain** / Langfuse
-- **n8n** / Baserow / Supabase
+## 🎓 My top and favorite skills, tools and Languages
+* **Backend**: TypeScript / NestJS / Python / Flask / FastAPI
+* **Frontend**: Astro / Vue.js / Nuxt.js
+* **DevOps & Infrastructure**: Docker / Kubernetes / Terraform / Ansible
+* **AI & Agents**: Anthropic / Claude Code / Agentic AI / LangChain / Langfuse
+* **No-code & Data**: n8n / Baserow / Supabase
 
 ##
 💬 Ask me about **entrepreneurship, startups, innovation and technologies**!
